@@ -1,4 +1,13 @@
-.ButtonCv{
-    text-decoration: none;
-    
+
+
+.ButtonCv {
+    background-color: #4B6DF5;
+    width: 7.5rem;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-weight: bold;
 }

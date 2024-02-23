@@ -6,6 +6,7 @@ const NavBar = () => {
   return (
     <div>
         <header className='ContainerNav'>
+          <p>LogoTipo</p>
             <ul className="NavBar">
                 <li>Home</li>
                 <li>Projetos</li>

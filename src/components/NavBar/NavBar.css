@@ -2,8 +2,9 @@
 .NavBar{
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 1rem;
     list-style-type:none;
+    padding: 15px;
 }

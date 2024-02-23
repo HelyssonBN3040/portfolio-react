@@ -4,7 +4,7 @@ import "./ButtonCv.css"
 const ButtonCv = () => {
   return (
     <div>
-        <a className='ButtonCv' href="https://drive.google.com/file/d/1Qxi5ekINuGq6UhctYHARPyMJEqIzQr-0/view?usp=sharing">Download CV</a>
+        <a href="https://drive.google.com/file/d/1Qxi5ekINuGq6UhctYHARPyMJEqIzQr-0/view?usp=sharing"><div className='ButtonCv'><p>Download CV</p></div></a>
     </div>
   )
 }
